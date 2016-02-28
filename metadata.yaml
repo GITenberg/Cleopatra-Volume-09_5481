@@ -1,0 +1,35 @@
+_repo: Cleopatra-Volume-09_5481
+contributor:
+  translator:
+    agent_name: Safford, Mary J.
+    alias: Safford, Mary Joanna
+    gutenberg_agent_id: '1802'
+    url: http://www.gutenberg.org/2009/agents/1802
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Queens -- Egypt -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Fiction'
+- !lcc 'PT'
+title: Cleopatra — Volume 09
+url: http://www.gutenberg.org/ebooks/5481
